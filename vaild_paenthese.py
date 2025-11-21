@@ -2,14 +2,22 @@ class Solution(object):
     def isValid(self, s):
         stack = []
         mapping = {')':'(', '}':'{', ']':'['}
+
         for char in s:
+
+           
             if char in "([{":
                 stack.append(char)
+
             else:
-                top = stack[-1]   # simulate top pointer
+             
+                if not stack:
+                    return False
+
+                top = stack[-1]
 
                 if mapping[char] == top:
-                    stack.pop()   # pop top
+                    stack.pop()
                 else:
                     return False
 
