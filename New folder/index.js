@@ -5,36 +5,33 @@ import random from "random";
 
 const path = "./data.json";
 
-const markCommit = (x, y) => {
+const makeCommits = (n) => {
+  if (n === 0) return simpleGit().push();
+
+  // Set fixed year 2025 and month November (10 zero indexed)
+  const baseYear = 2025;
+  const baseMonth = 10; // November
+  // Random day between 1 and 22 (inclusive)
+  const randomDay = random.int(1, 22);
+  const randomHour = random.int(0, 23);
+
   const date = moment()
-    .subtract(1, "y")
-    .add(1, "d")
-    .add(x, "w")
-    .add(y, "d")
+    .year(baseYear)
+    .month(baseMonth)
+    .date(randomDay)
+    .hour(randomHour)
+    .minute(0)
+    .second(0)
     .format();
 
   const data = {
     date: date,
   };
 
-  jsonfile.writeFile(path, data, () => {
-    simpleGit().add([path]).commit(date, { "--date": date }).push();
-  });
-};
-
-const makeCommits = (n) => {
-  if(n===0) return simpleGit().push();
-  const x = random.int(0, 54);
-  const y = random.int(0, 6);
-  const date = moment().subtract(1, "y").add(1, "d").add(x, "w").add(y, "d").format();
-
-  const data = {
-    date: date,
-  };
   console.log(date);
   jsonfile.writeFile(path, data, () => {
-    simpleGit().add([path]).commit(date, { "--date": date },makeCommits.bind(this,--n));
+    simpleGit().add([path]).commit(date, { "--date": date }, makeCommits.bind(this, --n));
   });
 };
 
-makeCommits(100);
+makeCommits(5);
