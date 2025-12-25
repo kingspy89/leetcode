@@ -2,7 +2,7 @@
 # @param version, an integer
 # @return a bool
 # def isBadVersion(version):
-
+isBadVersion = lambda x: x >= 4  # Example implementation for testing
 class Solution(object):
     def firstBadVersion(self, n):
         left, right = 1, n
