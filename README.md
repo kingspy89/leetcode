@@ -30,7 +30,6 @@ Each folder corresponds to a **data structure or algorithm topic**, and files ar
 ## 🧰 Languages Used
 
 - **Python** 🐍  
-- *(Optionally add C++ / Java if applicable)*
 
 ---
 
