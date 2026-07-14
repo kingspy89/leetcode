@@ -1,28 +1,21 @@
-# 🧠 LeetCode Solutions
+# 🧠 LeetCode Practice Repository
 
-This repository contains Python solutions for a wide range of [LeetCode](https://leetcode.com/) problems.
+This repository is organized for easier navigation, clearer learning paths, and simpler maintenance.
 
-## 📚 What's Inside
+## 📁 Repository Structure
 
-- Problem-wise Python scripts
-- Practice across common DSA topics
-- Simple, direct solution implementations
-
-## 🧩 Topics Covered
-
-- Arrays & Strings
-- Linked Lists
-- Stacks & Queues
-- Trees
-- Binary Search
-- Dynamic Programming
-- Greedy
-- Recursion / Backtracking
-- Math & Bit Manipulation
-
-## 📁 Repository Layout
-
-Most solutions are stored as standalone `.py` files in the repository root, with file names based on the related problem.
+```text
+leetcode/
+├── problems/
+│   ├── python/           # Main standalone LeetCode Python solutions
+│   ├── pandas/           # Pandas-focused practice problems
+│   └── strivers_sheet/   # Striver sheet practice and sorting exercises
+├── tools/
+│   └── goGreen/          # Separate Node.js utility project
+├── data.json             # Local data file kept at repo root
+├── refresh.txt           # Notes/scratch file
+└── README.md
+```
 
 ## 🚀 Getting Started
 
@@ -31,15 +24,22 @@ git clone https://github.com/kingspy89/leetcode.git
 cd leetcode
 ```
 
-## ▶️ Run a Solution
+## ▶️ Run Python Solutions
 
-Run any file directly with Python:
+Run any solution directly:
 
 ```bash
-python /home/runner/work/leetcode/leetcode/two_sum.py
+python /home/runner/work/leetcode/leetcode/problems/python/two_sum.py
 ```
 
-## 🤝 Notes
+## 📌 Organization Notes
 
-- Solutions are written for practice and learning.
-- Some file names may vary in style due to iterative additions over time.
+- All root-level LeetCode `.py`/`.PY` files were moved into `problems/python/`.
+- Topic-specific practice sets are grouped under `problems/`.
+- Non-LeetCode automation code is isolated under `tools/`.
+
+## 🧩 Recommended Next Improvements
+
+- Rename files to consistent snake_case naming.
+- Add one short explanation block at the top of each solution.
+- Add per-topic README files inside each folder with problem lists.
