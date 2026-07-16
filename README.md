@@ -43,3 +43,11 @@ python /home/runner/work/leetcode/leetcode/problems/python/two_sum.py
 - Rename files to consistent snake_case naming.
 - Add one short explanation block at the top of each solution.
 - Add per-topic README files inside each folder with problem lists.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/kingspy89/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+<!---LeetCode Topics End-->
