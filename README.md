@@ -49,6 +49,7 @@ python /home/runner/work/leetcode/leetcode/problems/python/two_sum.py
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/kingspy89/leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kingspy89/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0136-single-number](https://github.com/kingspy89/leetcode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/kingspy89/leetcode/tree/master/0189-rotate-array) |
@@ -69,4 +70,8 @@ python /home/runner/work/leetcode/leetcode/problems/python/two_sum.py
 |  |
 | ------- |
 | [0136-single-number](https://github.com/kingspy89/leetcode/tree/master/0136-single-number) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/kingspy89/leetcode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
