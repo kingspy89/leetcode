@@ -3,11 +3,11 @@ class Solution(object):
        n = len(nums)
        ans= [0]*n
        pos,neg = 0,1 
-       for i in range(n):
-         if nums[i] >= 0:
-            ans[pos]=nums[i]
+       for num in nums:
+         if num >= 0:
+            ans[pos]=num
             pos +=2
          else:
-            ans[neg]= nums[i]
+            ans[neg]= num
             neg +=2
        return ans
