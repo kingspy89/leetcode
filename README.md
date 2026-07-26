@@ -59,6 +59,7 @@ python /home/runner/work/leetcode/leetcode/problems/python/two_sum.py
 | [0189-rotate-array](https://github.com/kingspy89/leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/kingspy89/leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/kingspy89/leetcode/tree/master/0485-max-consecutive-ones) |
+| [0704-binary-search](https://github.com/kingspy89/leetcode/tree/master/0704-binary-search) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/kingspy89/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/kingspy89/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/kingspy89/leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -108,4 +109,8 @@ python /home/runner/work/leetcode/leetcode/problems/python/two_sum.py
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/kingspy89/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/kingspy89/leetcode/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
