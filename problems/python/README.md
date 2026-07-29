@@ -1,8 +1,8 @@
 # Python LeetCode Solutions
 
-This directory contains standalone Python scripts for LeetCode problems.
+This directory keeps Python LeetCode solutions in a folder-based structure.
 
 Suggested convention for future files:
-- file name in `snake_case.py`
-- include problem name/number in the first comment line
-- keep each file independently runnable
+- create one folder per problem
+- keep the Python solution file inside that folder
+- keep each solution independently runnable
