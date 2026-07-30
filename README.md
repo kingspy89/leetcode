@@ -1,6 +1,6 @@
 # 🧠 LeetCode Practice Repository
 
-This repository is organized for easier navigation, clearer learning paths, and simpler maintenance.
+This repository is organized by malav patel for easier navigation, clearer learning paths, and simpler maintenance.
 
 ## 📁 Repository Structure
 
