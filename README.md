@@ -55,6 +55,7 @@ python /home/runner/work/leetcode/leetcode/problems/python/two_sum.py
 | [0053-maximum-subarray](https://github.com/kingspy89/leetcode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/kingspy89/leetcode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kingspy89/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/kingspy89/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/kingspy89/leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/kingspy89/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/kingspy89/leetcode/tree/master/0189-rotate-array) |
@@ -91,6 +92,7 @@ python /home/runner/work/leetcode/leetcode/problems/python/two_sum.py
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kingspy89/leetcode/tree/master/0001-two-sum) |
+| [0128-longest-consecutive-sequence](https://github.com/kingspy89/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/kingspy89/leetcode/tree/master/0169-majority-element) |
 ## Divide and Conquer
 |  |
@@ -133,4 +135,8 @@ python /home/runner/work/leetcode/leetcode/problems/python/two_sum.py
 |  |
 | ------- |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/kingspy89/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/kingspy89/leetcode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
