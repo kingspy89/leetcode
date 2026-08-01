@@ -61,6 +61,7 @@ python /home/runner/work/leetcode/leetcode/problems/python/two_sum.py
 | [0189-rotate-array](https://github.com/kingspy89/leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/kingspy89/leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/kingspy89/leetcode/tree/master/0485-max-consecutive-ones) |
+| [0486-predict-the-winner](https://github.com/kingspy89/leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kingspy89/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/kingspy89/leetcode/tree/master/0704-binary-search) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kingspy89/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -80,6 +81,7 @@ python /home/runner/work/leetcode/leetcode/problems/python/two_sum.py
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/kingspy89/leetcode/tree/master/0189-rotate-array) |
+| [0486-predict-the-winner](https://github.com/kingspy89/leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kingspy89/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/kingspy89/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/kingspy89/leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -118,6 +120,7 @@ python /home/runner/work/leetcode/leetcode/problems/python/two_sum.py
 | ------- |
 | [0053-maximum-subarray](https://github.com/kingspy89/leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kingspy89/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0486-predict-the-winner](https://github.com/kingspy89/leetcode/tree/master/0486-predict-the-winner) |
 ## Simulation
 |  |
 | ------- |
@@ -144,4 +147,12 @@ python /home/runner/work/leetcode/leetcode/problems/python/two_sum.py
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/kingspy89/leetcode/tree/master/0128-longest-consecutive-sequence) |
+## Recursion
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/kingspy89/leetcode/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/kingspy89/leetcode/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
