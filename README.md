@@ -65,6 +65,7 @@ python /home/runner/work/leetcode/leetcode/problems/python/two_sum.py
 | [0283-move-zeroes](https://github.com/kingspy89/leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/kingspy89/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/kingspy89/leetcode/tree/master/0486-predict-the-winner) |
+| [0560-subarray-sum-equals-k](https://github.com/kingspy89/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kingspy89/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/kingspy89/leetcode/tree/master/0704-binary-search) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kingspy89/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -103,6 +104,7 @@ python /home/runner/work/leetcode/leetcode/problems/python/two_sum.py
 | [0073-set-matrix-zeroes](https://github.com/kingspy89/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/kingspy89/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/kingspy89/leetcode/tree/master/0169-majority-element) |
+| [0560-subarray-sum-equals-k](https://github.com/kingspy89/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/kingspy89/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/kingspy89/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Divide and Conquer
@@ -175,4 +177,8 @@ python /home/runner/work/leetcode/leetcode/problems/python/two_sum.py
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/kingspy89/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/kingspy89/leetcode/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
