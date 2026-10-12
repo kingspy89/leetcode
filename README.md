@@ -88,6 +88,7 @@ python /home/runner/work/leetcode/leetcode/problems/python/two_sum.py
 | [0048-rotate-image](https://github.com/kingspy89/leetcode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/kingspy89/leetcode/tree/master/0189-rotate-array) |
 | [0486-predict-the-winner](https://github.com/kingspy89/leetcode/tree/master/0486-predict-the-winner) |
+| [0507-perfect-number](https://github.com/kingspy89/leetcode/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kingspy89/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/kingspy89/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/kingspy89/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
