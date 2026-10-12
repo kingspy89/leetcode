@@ -81,6 +81,7 @@ python /home/runner/work/leetcode/leetcode/problems/python/two_sum.py
 | [0075-sort-colors](https://github.com/kingspy89/leetcode/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/kingspy89/leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/kingspy89/leetcode/tree/master/0283-move-zeroes) |
+| [0344-reverse-string](https://github.com/kingspy89/leetcode/tree/master/0344-reverse-string) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/kingspy89/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Math
 |  |
@@ -149,6 +150,7 @@ python /home/runner/work/leetcode/leetcode/problems/python/two_sum.py
 ## String
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/kingspy89/leetcode/tree/master/0344-reverse-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/kingspy89/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/kingspy89/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Greedy
